@@ -1,0 +1,102 @@
+body {
+			 width: 70%;
+			 max-width: 650px;
+			 min-height: 320px;
+			 font-size: 80%; 
+			 font-weight: 250;
+			 margin: auto;
+			 background-color:white;
+			 color: black;
+			 line-height: 1.6em;
+			 font-weight: 100;
+			 }  
+			 
+			 /*--------------TYPOGRAPHY----------------*/
+                
+.version2 h1,h2,h3 {
+				font-style: normal;
+				letter-spacing: 0em;
+				font-weight: normal;
+				color: black;
+				text-align: left;
+				padding: 0 0 0 0;
+				line-height: 0em;
+				font-weight: 300;
+				}
+        
+.version2 h1 {font-size: 4em;
+			margin-bottom: 1em;
+			font-family: 'Open Sans', sans-serif;
+			}
+
+.version2 h3 {font-size: 1.1em;
+			margin-top: 4em;
+			font-family: 'Open Sans', sans-serif;
+			}
+
+.version2 h2 {
+			font-family:'Open Sans', sans-serif;
+			font-style: italic;
+			font-size: 1.9em;
+			margin-bottom: 2em;
+			}
+
+.version2 h3 {
+			text-transform: uppercase;
+			}
+
+
+.version2 .intro {
+				font-size: 100%;
+				font-size: 1.3em;
+        		line-height: 1.7em;
+				font-family: 'Open Sans', sans-serif;
+        		padding: 1em 0 0em 0;
+				}
+
+
+.version2 blockquote{
+					color:#888888;
+					padding: .5em 0 4em 0;
+					font-size: 1.3em;
+					line-height: 1.5em;
+					margin: 0;
+					font-style:italic;
+					font-family: 'Open Sans', sans-serif;
+					font-weight: 400;
+					text-indent: -.4em;
+					}
+
+
+.version2 blockquote cite {
+					font-size: .75em;
+					text-transform:uppercase;
+					font-family: 'Open Sans', sans-serif;
+					}
+
+.version2 .indent{
+			text-indent: 2em;
+			}
+
+.version2 p+{
+			font-family: 'Open Sans', sans-serif;
+			}
+
+.version2 p+p{
+			font-family: 'Open Sans', sans-serif;
+			}
+
+.version2 p+p+p{
+		padding-top: -1em;
+		font-family: 'Open Sans', sans-serif;	
+		}
+
+		hr{
+			border: 1.5px solid;
+			color: crimson;
+			}
+
+	
+.version2 .uppercase{
+			text-transform: uppercase
+			}

@@ -1,0 +1,81 @@
+body{
+	width: 70%;
+	max-width: 650px;
+	min-height: 320px;
+	margin: auto;
+	background-color:white;
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 80%;
+	font-weight: 300;
+	line-height: 1.6em;
+	}
+
+hr{
+	border: 1.5px solid;
+	color: crimson;
+	}
+
+.version3 h1,h2,h3 {
+		letter-spacing: 0em;
+		color: black;
+		text-align: left;
+		line-height: 0em;
+		font-weight: 300;
+		}
+
+.version3 h1 {
+	font-size: 4em;
+	font-family: 'Arvo', serif;
+	}
+
+.version3 h3 {
+	font-size: 1em;
+	margin-top: 4em;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	}
+
+.version3 h2 {
+	font-family: 'Arvo', serif;
+	font-size: 1.9em;
+	
+	}
+
+.version3 .intro {
+		font-size: 100%;
+		font-size: 1.3em;
+        line-height: 1.7em;
+        padding: 1em 0 0 0;
+		font-family: 'Open Sans', sans-serif;
+		}
+
+
+.version3 blockquote{
+			color:#888888;
+			padding: .5em 0;
+			font-size: 1.4em;
+			font-weight: bold;
+			line-height: 1.5em;
+			margin: 0;
+			font-family: 'Arvo', serif;
+			font-weight: 300;
+			text-indent: -.4em;
+			}
+
+.version3 blockquote cite {
+				font-size: .75em;
+				}
+
+.version3 p{
+			font-family: 'Open Sans', sans-serif;
+			}
+				
+.version3 p+p{
+			font-family: 'Open Sans', sans-serif;
+			}
+
+.version3 p+p+p{
+			font-family: 'Open Sans', sans-serif;
+			}
+			
