@@ -65,6 +65,9 @@ hr{
 
 .version3 blockquote cite {
 				font-size: .75em;
+    
+    hr { padding 100px 0;
+        height 1px; 
 				}
 
 .version3 p{
